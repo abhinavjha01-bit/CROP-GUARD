@@ -1,15 +1,13 @@
-# CROP-GUARD
-A free, farmer-friendly crop health app that analyzes leaf photos, identifies likely diseases, and provides simple, source-backed care guidance in local languages.
 # Crop Guard 🌱
 
-A farmer-friendly crop health prototype that analyzes a tomato leaf photo and shows a possible disease match with simple care guidance.
+A farmer-friendly crop health prototype for checking tomato leaf photos and showing simple care guidance.
 
-## Current features
+## Features
 
-- Upload a tomato leaf photo
-- View the model’s top crop and disease matches
-- See basic, source-linked early blight care guidance when the result meets the app’s checks
-- Record leaf symptoms, watering, and when the problem started
+- Upload a tomato leaf photo for a possible disease match
+- English, Hindi, and Marathi interface
+- Farmer observation questions about leaf signs, watering, and when the issue started
+- Source-linked early blight care guidance when the result passes the app's checks
 
 ## Run locally
 
