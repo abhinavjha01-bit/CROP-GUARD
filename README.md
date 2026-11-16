@@ -1,6 +1,6 @@
 # Crop Guard 🌱
 
-A farmer-friendly crop health prototype for checking tomato leaf photos and showing simple care guidance.
+This is a farmer-friendly crop health prototype for checking tomato leaf photos and showing simple care guidance.
 
 ## Features
 
